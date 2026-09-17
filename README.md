@@ -1,13 +1,5 @@
 # Olá, eu sou o Erick Borges! 👋
 
-### 🛠️ Tecnologias & Certificações
-
-**Back-end & Cloud**
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 **Front-end & Web**
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
