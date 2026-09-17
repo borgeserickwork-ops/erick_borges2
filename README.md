@@ -15,13 +15,9 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-
-
-**Processos & Metodologias**
-
-![Scrum](https://img.shields.io/badge/Scrum-025E8D?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 ---
 
 ### 💻 Stack Principal & Competências Técnicas
